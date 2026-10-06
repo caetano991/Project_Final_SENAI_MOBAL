@@ -15,6 +15,7 @@ A aplicação permite ao usuário navegar por diferentes áreas do aplicativo, v
 O projeto possui uma interface minimalista, utilizando uma identidade visual baseada em tons claros, gradientes e elementos inspirados em aplicativos modernos de música.
 
 ✨ Funcionalidades
+
 🔐 Autenticação
 Tela de boas-vindas
 Cadastro de usuário
@@ -23,6 +24,7 @@ Validação de e-mail
 Validação de senha
 Confirmação de senha durante o cadastro
 Navegação entre login e cadastro
+
 🏠 Página inicial
 Saudação ao usuário
 Músicas em destaque
@@ -30,6 +32,7 @@ Músicas reproduzidas recentemente
 Seção de recomendações
 Acesso rápido às músicas
 Navegação inferior entre as principais áreas do aplicativo
+
 🔎 Biblioteca
 Listagem de músicas
 Pesquisa por nome da música
@@ -37,6 +40,7 @@ Pesquisa por artista
 Contagem de resultados
 Estado para quando nenhuma música é encontrada
 Acesso direto ao player
+
 ▶️ Player
 Exibição da capa da música
 Nome da música
@@ -49,6 +53,7 @@ Próxima música
 Controle de progresso manual
 Sistema de favoritos
 Avanço automático para a próxima música
+
 🛠️ Tecnologias utilizadas
 Tecnologia	Utilização
 React Native	Desenvolvimento da interface mobile
@@ -58,6 +63,7 @@ React	Construção dos componentes e gerenciamento da interface
 Expo Linear Gradient	Gradientes utilizados na interface
 Expo Vector Icons	Ícones da aplicação
 React Native Community Slider	Controle de progresso do player
+
 📦 Estrutura principal
 Project_Final_SENAI/
 │
